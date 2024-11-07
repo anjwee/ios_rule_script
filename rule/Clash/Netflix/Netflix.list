@@ -9,9 +9,13 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 1157
+DOMAIN-KEYWORD,ddys
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,playvids.com
+DOMAIN-SUFFIX,549.tv
+DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
